@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['test',['$event']]]]]}}" bindtap="__e">搜索1</view></view>

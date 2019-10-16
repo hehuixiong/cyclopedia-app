@@ -1,0 +1,23 @@
+.visible.data-v-ca4410f6 {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.announcement.data-v-ca4410f6 {
+  width: 520rpx;
+}
+.announcement image.data-v-ca4410f6 {
+  width: 70%;
+  margin-bottom: 20rpx;
+}
+.announcement button.data-v-ca4410f6 {
+  background: #ffe934;
+  border: none;
+  color: #171606;
+  margin-top: 20rpx;
+  line-height: 80rpx;
+  font-size: 32rpx;
+}
+
