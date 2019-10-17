@@ -7,7 +7,7 @@
 				@tap="taptab(index)"
 				:style="scrollItemStyle"
 			>
-				{{tab.name}}
+				{{tab.name}} {{tab.num ? tab.num : ''}}
 				<view class="swiper-tab-line"></view>
 			</view>
 			</block>

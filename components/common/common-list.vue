@@ -10,11 +10,8 @@
 		<view class="common-list-r">
 			<view class="u-f-ac u-f-jsb list-r-item1">
 				<view class="u-f-ac nickname">
-					{{item.usrename}}
-					<view
-						class="icon iconfont sex-age"
-						:class="[item.sex === 0 ? 'icon-nan' : 'icon-nv']"
-					> {{item.age}}</view>
+					<view style="margin-right: 10upx;">{{item.usrename}}</view>
+					<tag-sex-age :age="item.age" :sex="item.sex"></tag-sex-age>
 				</view>
 				<view
 					class="icon iconfont icon-zengjia attention"
@@ -72,7 +69,11 @@
 </template>
 
 <script>
+	import tagSexAge from './tag-sex-age.vue'
 	export default {
+		components: {
+			tagSexAge
+		},
 		data () {
 			return {
 				isattention: this.item.isattention
@@ -114,18 +115,6 @@
 				.nickname{
 					color: #999999;
 					font-size: 30upx;
-				}
-				.sex-age{
-					background: #007AFF;
-					color: #FFFFFF;
-					font-size: 24upx;
-					padding: 8upx 10upx;
-					border-radius: 20upx;
-					margin-left: 10upx;
-					line-height: 20upx;
-					&.icon-nv{
-						background: #ff5555;
-					}
 				}
 				.attention{
 					background: #f4f4f4;

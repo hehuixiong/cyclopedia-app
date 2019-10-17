@@ -1,0 +1,13 @@
+.sex-age.data-v-0f4e0d7a {
+  background: #007AFF;
+  color: #FFFFFF;
+  font-size: 24rpx;
+  padding: 8rpx 10rpx;
+  border-radius: 20rpx;
+  line-height: 20rpx;
+  display: inline-block;
+}
+.sex-age.icon-nv.data-v-0f4e0d7a {
+  background: #ff5555;
+}
+

@@ -24,18 +24,6 @@
   color: #999999;
   font-size: 30rpx;
 }
-.common-list .common-list-r .list-r-item1 .sex-age.data-v-15379b55 {
-  background: #007AFF;
-  color: #FFFFFF;
-  font-size: 24rpx;
-  padding: 8rpx 10rpx;
-  border-radius: 20rpx;
-  margin-left: 10rpx;
-  line-height: 20rpx;
-}
-.common-list .common-list-r .list-r-item1 .sex-age.icon-nv.data-v-15379b55 {
-  background: #ff5555;
-}
 .common-list .common-list-r .list-r-item1 .attention.data-v-15379b55 {
   background: #f4f4f4;
   border-radius: 5rpx;

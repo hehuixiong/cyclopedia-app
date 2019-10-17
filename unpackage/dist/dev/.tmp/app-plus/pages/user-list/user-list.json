@@ -22,5 +22,8 @@
       }
     ]
   },
-  "usingComponents": {}
+  "usingComponents": {
+    "swiper-tab": "/components/index/swiper-tab",
+    "tag-sex-age": "/components/common/tag-sex-age"
+  }
 }
