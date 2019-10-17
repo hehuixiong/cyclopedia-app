@@ -4,7 +4,7 @@
 		<swiper-tab
 			:tabBars="tabBars"
 			:tabIndex="tabIndex"
-			@tabtap="tabtap"
+			@taptab="taptab"
 		></swiper-tab>
 		<!-- 顶部tab end -->
 		<view class="uni-tab-bar">
@@ -412,7 +412,7 @@
 				// this.newsList[index].loadtext = '没有更多数据了~'
 			},
 			// 点击切换
-			tabtap (index) {
+			taptab (index) {
 				this.tabIndex = index
 			},
 			// 切换改变tab

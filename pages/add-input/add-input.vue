@@ -1,15 +1,12 @@
 <template>
 	<view id="addInput">
 		<!-- 自定导航栏 -->
-		<uni-nav-bar :border="false" :fixed="true" :statusBar="true" @click-left="back" @click-right="submit">
+		<uni-nav-bar :border="false" :fixed="true" :statusBar="true" rightText="发布" @click-left="back" @click-right="submit">
 			<view slot="left" class="cancel">取消</view>
 			<view class="visible u-f-ajc" @tap="changeLook">
 				{{visible}}
 				<view class="icon iconfont icon-xialazhankai"></view>
 			</view>
-			<block slot="right">
-				<view class="submit">发布</view>
-			</block>
 		</uni-nav-bar>
 		<!-- 多行输入框 -->
 		<view class="uni-textarea">

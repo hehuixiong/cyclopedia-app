@@ -1,28 +1,28 @@
-.cancel.data-v-ca4410f6 {
+.cancel.data-v-ee33a87c {
   padding-left: 20rpx;
 }
-.submit.data-v-ca4410f6 {
+.submit.data-v-ee33a87c {
   color: #FFFFFF;
   background: #09bb07;
   padding: 2rpx 8rpx;
   border-radius: 8rpx;
   font-weight: bold;
 }
-.visible.data-v-ca4410f6 {
+.visible.data-v-ee33a87c {
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
 }
-.announcement.data-v-ca4410f6 {
+.announcement.data-v-ee33a87c {
   width: 520rpx;
 }
-.announcement image.data-v-ca4410f6 {
+.announcement image.data-v-ee33a87c {
   width: 70%;
   margin-bottom: 20rpx;
 }
-.announcement button.data-v-ca4410f6 {
+.announcement button.data-v-ee33a87c {
   background: #ffe934;
   border: none;
   color: #171606;

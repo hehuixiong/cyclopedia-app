@@ -1,17 +1,17 @@
-.common-list.data-v-e9e464d0 {
+.common-list.data-v-15379b55 {
   padding: 20rpx;
 }
-.common-list .common-list-l.data-v-e9e464d0 {
+.common-list .common-list-l.data-v-15379b55 {
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
 }
-.common-list .common-list-l image.data-v-e9e464d0 {
+.common-list .common-list-l image.data-v-15379b55 {
   width: 90rpx;
   height: 90rpx;
   border-radius: 100%;
 }
-.common-list .common-list-r.data-v-e9e464d0 {
+.common-list .common-list-r.data-v-15379b55 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -20,11 +20,11 @@
   border-bottom: 1rpx solid #EEEEEE;
   padding-bottom: 10rpx;
 }
-.common-list .common-list-r .list-r-item1 .nickname.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item1 .nickname.data-v-15379b55 {
   color: #999999;
   font-size: 30rpx;
 }
-.common-list .common-list-r .list-r-item1 .sex-age.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item1 .sex-age.data-v-15379b55 {
   background: #007AFF;
   color: #FFFFFF;
   font-size: 24rpx;
@@ -33,28 +33,28 @@
   margin-left: 10rpx;
   line-height: 20rpx;
 }
-.common-list .common-list-r .list-r-item1 .sex-age.icon-nv.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item1 .sex-age.icon-nv.data-v-15379b55 {
   background: #ff5555;
 }
-.common-list .common-list-r .list-r-item1 .attention.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item1 .attention.data-v-15379b55 {
   background: #f4f4f4;
   border-radius: 5rpx;
   padding: 0 10px 0 8rpx;
   font-size: 28rpx;
 }
-.common-list .common-list-r .list-r-item2.title.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item2.title.data-v-15379b55 {
   margin: 12rpx 0;
   font-size: 30rpx;
 }
-.common-list .common-list-r .list-r-item3.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3.data-v-15379b55 {
   position: relative;
   margin-bottom: 10rpx;
 }
-.common-list .common-list-r .list-r-item3 image.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3 image.data-v-15379b55 {
   width: 100%;
   border-radius: 10rpx;
 }
-.common-list .common-list-r .list-r-item3 .play.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3 .play.data-v-15379b55 {
   position: absolute;
   font-size: 100rpx;
   color: #FFFFFF;
@@ -64,7 +64,7 @@
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
 }
-.common-list .common-list-r .list-r-item3 .play-info.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3 .play-info.data-v-15379b55 {
   position: absolute;
   background: rgba(51, 51, 51, 0.72);
   color: #FFFFFF;
@@ -74,27 +74,27 @@
   font-size: 24rpx;
   padding: 0 12rpx;
 }
-.common-list .common-list-r .list-r-item3 .common-list-share.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3 .common-list-share.data-v-15379b55 {
   background: #EEEEEE;
   padding: 10rpx;
   border-radius: 10rpx;
 }
-.common-list .common-list-r .list-r-item3 .common-list-share image.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item3 .common-list-share image.data-v-15379b55 {
   width: 200rpx;
   height: 150rpx;
   margin-right: 10rpx;
 }
-.common-list .common-list-r .list-r-item4.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item4.data-v-15379b55 {
   font-size: 24rpx;
   color: #AAAAAA;
   padding-right: 8rpx;
 }
-.common-list .common-list-r .list-r-item4 .right > view.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item4 .right > view.data-v-15379b55 {
   margin-left: 12rpx;
   padding-left: 8rpx;
   font-size: 28rpx;
 }
-.common-list .common-list-r .list-r-item4 .right > view > view.data-v-e9e464d0 {
+.common-list .common-list-r .list-r-item4 .right > view > view.data-v-15379b55 {
   padding-right: 6rpx;
 }
 

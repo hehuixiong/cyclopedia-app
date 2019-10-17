@@ -1,0 +1,21 @@
+.topic-list.data-v-8c1ca862 {
+  border-bottom: 1rpx solid #EEEEEE;
+  padding: 16rpx 0;
+}
+.topic-list image.data-v-8c1ca862 {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 10rpx;
+  margin-right: 20rpx;
+}
+.topic-list > view.data-v-8c1ca862:last-child {
+  color: #A4A4A4;
+}
+.topic-list > view:last-child view.data-v-8c1ca862 {
+  line-height: 46rpx;
+}
+.topic-list > view:last-child view.data-v-8c1ca862:nth-child(1) {
+  color: #333333;
+  font-size: 32rpx;
+}
+
