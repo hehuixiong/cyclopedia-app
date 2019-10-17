@@ -2,19 +2,32 @@
   border-bottom: 1rpx solid #EEEEEE;
   padding: 16rpx 0;
 }
-.topic-list image.data-v-8c1ca862 {
-  width: 150rpx;
-  height: 150rpx;
-  border-radius: 10rpx;
+.topic-list .topic-list-l.data-v-8c1ca862 {
+  width: 160rpx;
+  height: 160rpx;
   margin-right: 20rpx;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 160rpx;
+      -ms-flex: 0 0 160rpx;
+          flex: 0 0 160rpx;
 }
-.topic-list > view.data-v-8c1ca862:last-child {
+.topic-list .topic-list-l image.data-v-8c1ca862 {
+  width: 100%;
+  height: 100%;
+  border-radius: 10rpx;
+}
+.topic-list .topic-list-r.data-v-8c1ca862 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding-top: 8rpx;
   color: #A4A4A4;
 }
-.topic-list > view:last-child view.data-v-8c1ca862 {
+.topic-list .topic-list-r view.data-v-8c1ca862 {
   line-height: 46rpx;
 }
-.topic-list > view:last-child view.data-v-8c1ca862:nth-child(1) {
+.topic-list .topic-list-r .title.data-v-8c1ca862 {
   color: #333333;
   font-size: 32rpx;
 }

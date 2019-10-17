@@ -1,1 +1,2 @@
+setCssToHead([".",[1],"body.",[1],"data-v-386bd39e { padding: 0 ",[0,20],"; }\n",],undefined,{path:"./pages/paper/paper.wxss"})();
 document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/paper/paper.wxml') } }));

@@ -1,0 +1,34 @@
+.paper-list.data-v-1fd8b7ca {
+  border-bottom: 1rpx solid #EEEEEE;
+  padding: 20rpx 0;
+}
+.paper-list > view.data-v-1fd8b7ca {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.paper-list .paper-list-l.data-v-1fd8b7ca {
+  width: 100rpx;
+  height: 100rpx;
+  margin-right: 20rpx;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 100rpx;
+      -ms-flex: 0 0 100rpx;
+          flex: 0 0 100rpx;
+}
+.paper-list .paper-list-l image.data-v-1fd8b7ca {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+}
+.paper-list .paper-list-r > view.data-v-1fd8b7ca:nth-child(1) {
+  font-size: 35rpx;
+}
+.paper-list .paper-list-r .time.data-v-1fd8b7ca {
+  color: #cbcbcb;
+}
+

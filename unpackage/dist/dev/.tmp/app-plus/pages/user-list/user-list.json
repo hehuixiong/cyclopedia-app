@@ -1,0 +1,26 @@
+{
+  "popGesture": "none",
+  "animationType": "slide-in-left",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "autoBackButton": false,
+    "searchInput": {
+      "align": "left",
+      "autoFocus": true,
+      "backgroundColor": "#F7F7F7",
+      "borderRadius": "4px",
+      "placeholder": "搜索糗友",
+      "placeholderColor": "#CCCCCC"
+    },
+    "buttons": [
+      {
+        "color": "#000000",
+        "colorPressed": "#BBBBBB",
+        "float": "right",
+        "fontSize": "14px",
+        "text": "取消"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,7 +1,8 @@
 {
+  "animationType": "zoom-out",
   "popGesture": "none",
   "titleNView": {
-    "autoBackButton": true,
+    "autoBackButton": false,
     "searchInput": {
       "align": "left",
       "autoFocus": true,
