@@ -1,14 +1,14 @@
-.uni-swiper-tab.data-v-cf998fd4 {
+.uni-swiper-tab.data-v-37e8caf6 {
   border-bottom: 1px solid #EEEEEE;
 }
-.swiper-tab-list.data-v-cf998fd4 {
+.swiper-tab-list.data-v-37e8caf6 {
   color: #969696;
   font-weight: bold;
 }
-.swiper-tab-list.active.data-v-cf998fd4 {
+.swiper-tab-list.active.data-v-37e8caf6 {
   color: #343434;
 }
-.swiper-tab-list.active .swiper-tab-line.data-v-cf998fd4 {
+.swiper-tab-list.active .swiper-tab-line.data-v-37e8caf6 {
   border-bottom: 6rpx solid #fede33;
   width: 70rpx;
   margin: 0 auto;

@@ -129,7 +129,7 @@
 				})
 					break
 				case 1:
-				this.show = true
+				this.show = !this.show
 					break
 			}
 		},

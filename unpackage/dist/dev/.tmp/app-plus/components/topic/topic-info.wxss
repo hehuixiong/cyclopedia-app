@@ -1,29 +1,29 @@
-.topic-bg.data-v-2954a5e5 {
+.topic-bg.data-v-6deb8e76 {
   width: 100%;
   height: 300rpx;
   position: relative;
   overflow: hidden;
 }
-.topic-bg image.data-v-2954a5e5 {
+.topic-bg image.data-v-6deb8e76 {
   width: 100%;
   position: absolute;
   -webkit-filter: blur(10px);
           filter: blur(10px);
 }
-.topic-info.data-v-2954a5e5 {
+.topic-info.data-v-6deb8e76 {
   padding: 0 20rpx;
 }
-.topic-info .topic-info-t.data-v-2954a5e5 {
+.topic-info .topic-info-t.data-v-6deb8e76 {
   position: relative;
 }
-.topic-info .topic-info-t image.data-v-2954a5e5 {
+.topic-info .topic-info-t image.data-v-6deb8e76 {
   width: 160rpx;
   height: 160rpx;
   border-radius: 20rpx;
   position: absolute;
   top: -80rpx;
 }
-.topic-info .topic-info-t .title.data-v-2954a5e5 {
+.topic-info .topic-info-t .title.data-v-6deb8e76 {
   font-size: 30rpx;
   margin-left: 180rpx;
   -webkit-box-flex: 1;
@@ -31,13 +31,13 @@
       -ms-flex: 1;
           flex: 1;
 }
-.topic-info .topic-info-c.data-v-2954a5e5 {
+.topic-info .topic-info-c.data-v-6deb8e76 {
   padding: 32rpx 0 14rpx 0;
 }
-.topic-info .topic-info-c > view.data-v-2954a5e5 {
+.topic-info .topic-info-c > view.data-v-6deb8e76 {
   color: #cdcdcd;
 }
-.topic-info .topic-info-b.data-v-2954a5e5 {
+.topic-info .topic-info-b.data-v-6deb8e76 {
   font-size: 32rpx;
   color: #a3a3a3;
   padding-bottom: 10rpx;

@@ -6,7 +6,6 @@
     "autoBackButton": false,
     "searchInput": {
       "align": "left",
-      "autoFocus": true,
       "backgroundColor": "#F7F7F7",
       "borderRadius": "4px",
       "placeholder": "搜索糗友",
