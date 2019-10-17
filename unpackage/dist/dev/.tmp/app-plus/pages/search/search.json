@@ -1,5 +1,5 @@
 {
-  "animationType": "zoom-out",
+  "animationType": "zoom-fade-out",
   "popGesture": "none",
   "titleNView": {
     "autoBackButton": false,

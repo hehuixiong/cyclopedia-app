@@ -82,7 +82,7 @@
 			"path" : "pages/search/search",
 			"style" : {
 				"app-plus": {
-					"animationType":"zoom-out",
+					"animationType":"zoom-fade-out",
 					// iOS上是否支持屏幕左边滑动关闭当前页面。设为none则不响应左滑动画。
 					"popGesture": "none",
 					"titleNView": {
@@ -114,6 +114,8 @@
 			"path" : "pages/add-input/add-input",
 			"style" : {
 				"app-plus": {
+					// iOS上是否支持屏幕左边滑动关闭当前页面。设为none则不响应左滑动画。
+					"popGesture": "none",
 					"animationType": "slide-in-bottom",
 					"animationDuration": 300,
 					// 禁止原生导航

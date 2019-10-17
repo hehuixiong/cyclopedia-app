@@ -1,4 +1,5 @@
 {
+  "popGesture": "none",
   "animationType": "slide-in-bottom",
   "animationDuration": 300,
   "titleNView": false,

@@ -17,6 +17,7 @@
 				uni.navigateBack({
 					delta: 1
 				})
+				uni.hideKeyboard() // 关闭键盘
 			}
 		},
 		// 监听原生标题栏搜索输入框输入内容变化事件

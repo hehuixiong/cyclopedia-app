@@ -10,7 +10,7 @@
 		</uni-nav-bar>
 		<!-- 多行输入框 -->
 		<view class="uni-textarea">
-			<textarea v-model="textarea" placeholder="说一句话吧~" />
+			<textarea :focus='setFocus' v-model="textarea" placeholder="说一句话吧~" />
 		</view>
 		<!-- 上传多图 -->
 		<uploud-images @uploud="uploud"></uploud-images>
@@ -43,6 +43,7 @@
 		},
 		data() {
 			return {
+				setFocus: false,
 				isGet: false,
 				visible: '所有人可见',
 				textarea: '',
@@ -57,6 +58,9 @@
 				this.save()
 				return true
 			}
+		},
+		onPageScroll() {
+			uni.hideKeyboard() // 关闭键盘
 		},
 		methods: {
 			// 保存为草稿
@@ -81,6 +85,7 @@
 				uni.navigateBack({
 					delta: 1
 				})
+				uni.hideKeyboard() // 关闭键盘
 			},
 			// 发布
 			submit () {
@@ -101,6 +106,7 @@
 			},
 			hidePopup () {
 				this.showPopup = false
+				this.setFocus = true
 			}
 		}
 	}
