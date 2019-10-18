@@ -28,7 +28,8 @@
 			return {
 				isSearch: false,
 				loadtext: '上拉加载更多',
-				list: []
+				list: [],
+				key_word: ''
 			}
 		},
 		// 监听原生标题栏按钮点击事件，参数为Object
@@ -42,25 +43,26 @@
 		},
 		// 监听原生标题栏搜索输入框输入内容变化事件
 		onNavigationBarSearchInputChanged (e) {
-			// if (e.text) {
-			// 	this.getData(e.text)
-			// }
+			this.key_word = e.text
 		},
 		// 监听原生标题栏搜索输入框搜索事件，用户点击软键盘上的“搜索”按钮时触发。
 		onNavigationBarSearchInputConfirmed (e) {
-			if (e.text) {
-				this.getData(e.text)
-			}
+			if (e.text) this.getData()
 		},
 		// 监听页面触底事件
 		onReachBottom() {
 			this.loadMore()
 		},
+		// 监听下拉刷新
+		onPullDownRefresh() {
+			this.getData()
+			uni.stopPullDownRefresh()
+		},
 		methods: {
-			getData (val) {
-				// 请求服务器 post keyword ： val
+			getData () {
+				// 请求服务器 post keyword ： this.key_word
 				uni.showLoading({
-					title: "加载中..."
+					title: "加载中."
 				})
 				setTimeout(() => {
 					let arr = [
