@@ -1,7 +1,7 @@
 <template>
 	<view
 		class="icon iconfont sex-age"
-		:class="[sex === 0 ? 'icon-nan' : 'icon-nv']"
+		:class="[sex === 1 ? 'icon-nan' : 'icon-nv']"
 	>{{age}}
 	</view>
 </template>
@@ -25,7 +25,7 @@
 		line-height: 20upx;
 		display: inline-block;
 		&.icon-nv{
-			background: #ff5555;
+			background: #ff7b8e;
 		}
 	}
 </style>

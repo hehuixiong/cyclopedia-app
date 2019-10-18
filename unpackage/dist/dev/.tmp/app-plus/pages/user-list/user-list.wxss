@@ -1,30 +1,4 @@
-.body.data-v-1588d5a6 {
+.body.data-v-79cc0ac6 {
   padding: 0 20rpx;
-}
-.user-list.data-v-1588d5a6 {
-  padding: 20rpx 0;
-  border-bottom: 1rpx solid #EEEEEE;
-}
-.user-list image.data-v-1588d5a6 {
-  width: 100rpx;
-  height: 100rpx;
-  border-radius: 50%;
-  margin-right: 20rpx;
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
-}
-.user-list .content.data-v-1588d5a6 {
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-}
-.user-list .content .username.data-v-1588d5a6 {
-  font-size: 32rpx;
-}
-.user-list .icon-xuanze-yixuan.data-v-1588d5a6 {
-  width: 80rpx;
-  font-size: 40rpx;
 }
 

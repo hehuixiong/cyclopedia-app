@@ -1,4 +1,4 @@
-.sex-age.data-v-d02b2f4c {
+.sex-age.data-v-0f4e0d7a {
   background: #007AFF;
   color: #FFFFFF;
   font-size: 24rpx;
@@ -7,7 +7,7 @@
   line-height: 20rpx;
   display: inline-block;
 }
-.sex-age.icon-nv.data-v-d02b2f4c {
-  background: #ff5555;
+.sex-age.icon-nv.data-v-0f4e0d7a {
+  background: #ff7b8e;
 }
 
