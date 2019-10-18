@@ -13,6 +13,7 @@
     ]
   },
   "usingComponents": {
-    "user-chat-bottom": "/components/user-chat/user-chat-bottom"
+    "user-chat-bottom": "/components/user-chat/user-chat-bottom",
+    "user-chat-list": "/components/user-chat/usre-chat-list"
   }
 }
