@@ -5,14 +5,6 @@
       {
         "color": "#000000",
         "colorPressed": "#BBBBBB",
-        "float": "left",
-        "fontSize": "22px",
-        "fontSrc": "/static/font/icon.ttf",
-        "text": ""
-      },
-      {
-        "color": "#000000",
-        "colorPressed": "#BBBBBB",
         "float": "right",
         "fontSize": "22px",
         "fontSrc": "/static/font/icon.ttf",
@@ -20,5 +12,8 @@
       }
     ]
   },
-  "usingComponents": {}
+  "usingComponents": {
+    "user-chat-bottom": "/components/user-chat/user-chat-bottom",
+    "user-chat-list": "/components/user-chat/user-chat-list"
+  }
 }

@@ -81,6 +81,7 @@
 		{
 			"path" : "pages/search/search",
 			"style" : {
+				"enablePullDownRefresh": true,
 				"app-plus": {
 					"animationType":"zoom-fade-out",
 					// iOS上是否支持屏幕左边滑动关闭当前页面。设为none则不响应左滑动画。
@@ -186,14 +187,7 @@
 				"app-plus": {
 					"titleNView": {
 						"buttons": [
-							{
-								"color":"#000000",
-								"colorPressed":"#BBBBBB",
-								"float":"left",
-								"fontSize":"22px",
-								"fontSrc":"/static/font/icon.ttf",
-								"text": "\ue845"
-							},
+							// 右边
 							{
 								"color":"#000000",
 								"colorPressed":"#BBBBBB",
