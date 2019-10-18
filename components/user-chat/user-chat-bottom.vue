@@ -15,7 +15,7 @@
 		methods: {
 			submit () {
 				this.$emit('submit', this.text)
-				this.text = ''
+				// this.text = ''
 			}
 		}
 	}

@@ -81,6 +81,7 @@
 		{
 			"path" : "pages/search/search",
 			"style" : {
+				"enablePullDownRefresh": true,
 				"app-plus": {
 					"animationType":"zoom-fade-out",
 					// iOS上是否支持屏幕左边滑动关闭当前页面。设为none则不响应左滑动画。

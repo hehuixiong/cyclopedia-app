@@ -1,30 +1,30 @@
-.index-list.data-v-0b93a26f {
+.index-list.data-v-6bde0f8f {
   padding: 20rpx;
   border-bottom: 1rpx solid #efefef;
 }
-.index-list .list-item1 > view.data-v-0b93a26f:first-child {
+.index-list .list-item1 > view.data-v-6bde0f8f:first-child {
   color: #999999;
 }
-.index-list .list-item1 > view:first-child image.data-v-0b93a26f {
+.index-list .list-item1 > view:first-child image.data-v-6bde0f8f {
   width: 85rpx;
   height: 85rpx;
   border-radius: 100%;
   margin-right: 10rpx;
 }
-.index-list .list-item1 > view:last-child > view.data-v-0b93a26f {
+.index-list .list-item1 > view:last-child > view.data-v-6bde0f8f {
   background: #f4f4f4;
   border-radius: 5rpx;
   padding: 0 10px 0 8rpx;
   font-size: 28rpx;
 }
-.index-list .list-item2.data-v-0b93a26f {
+.index-list .list-item2.data-v-6bde0f8f {
   padding: 10rpx 0;
   font-size: 32rpx;
 }
-.index-list .list-item3.data-v-0b93a26f {
+.index-list .list-item3.data-v-6bde0f8f {
   position: relative;
 }
-.index-list .list-item3 .play.data-v-0b93a26f {
+.index-list .list-item3 .play.data-v-6bde0f8f {
   position: absolute;
   font-size: 100rpx;
   color: #FFFFFF;
@@ -34,7 +34,7 @@
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
 }
-.index-list .list-item3 .play-info.data-v-0b93a26f {
+.index-list .list-item3 .play-info.data-v-6bde0f8f {
   position: absolute;
   background: rgba(51, 51, 51, 0.72);
   color: #FFFFFF;
@@ -44,23 +44,23 @@
   font-size: 24rpx;
   padding: 0 12rpx;
 }
-.index-list .list-item3 image.data-v-0b93a26f {
+.index-list .list-item3 image.data-v-6bde0f8f {
   width: 100%;
   border-radius: 20rpx;
 }
-.index-list .list-item4.data-v-0b93a26f {
+.index-list .list-item4.data-v-6bde0f8f {
   padding: 15rpx 8rpx;
 }
-.index-list .list-item4 > view.data-v-0b93a26f {
+.index-list .list-item4 > view.data-v-6bde0f8f {
   color: #999999;
 }
-.index-list .list-item4 .active.data-v-0b93a26f {
+.index-list .list-item4 .active.data-v-6bde0f8f {
   color: green;
 }
-.index-list .list-item4 > view > view.data-v-0b93a26f:first-child {
+.index-list .list-item4 > view > view.data-v-6bde0f8f:first-child {
   margin-right: 15rpx;
 }
-.index-list .list-item4 > view > view > view.data-v-0b93a26f {
+.index-list .list-item4 > view > view > view.data-v-6bde0f8f {
   margin-right: 10rpx;
 }
 
