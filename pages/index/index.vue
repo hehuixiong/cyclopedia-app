@@ -51,34 +51,13 @@
 				swiperHeight: 0,
 				tabIndex: 0,
 				tabBars: [
-					{
-						name: '关注',
-						id: 1
-					},
-					{
-						name: '推荐',
-						id: 7
-					},
-					{
-						name: '体育',
-						id: 2
-					},
-					{
-						name: '热点',
-						id: 3
-					},
-					{
-						name: '财经',
-						id: 4
-					},
-					{
-						name: '娱乐',
-						id: 5
-					},
-					{
-						name: '小说',
-						id: 6
-					}
+					{ name: '关注',id: 1 },
+					{ name: '推荐',id: 2 },
+					{ name: '体育',id: 3 },
+					{ name: '热点',id: 4 },
+					{ name: '财经',id: 5 },
+					{ name: '娱乐',id: 6 },
+					{ name: '小说',id: 7 }
 				],
 				newsList: [
 					{

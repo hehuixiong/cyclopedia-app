@@ -1,0 +1,32 @@
+.user-list.data-v-85818ff0 {
+  margin: 0 20rpx;
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #EEEEEE;
+}
+.user-list image.data-v-85818ff0 {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+  margin-right: 20rpx;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+.user-list .content.data-v-85818ff0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.user-list .content .username.data-v-85818ff0 {
+  font-size: 32rpx;
+}
+.user-list .icon-xuanze-yixuan.data-v-85818ff0,
+.user-list .icon-zengjia1.data-v-85818ff0 {
+  width: 80rpx;
+  font-size: 40rpx;
+}
+.user-list .icon-zengjia1.data-v-85818ff0 {
+  color: #fee42a !important;
+}
+
