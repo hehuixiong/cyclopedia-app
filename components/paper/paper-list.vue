@@ -38,9 +38,6 @@
 	.paper-list{
 		border-bottom: 1upx solid #EEEEEE;
 		padding: 20upx 0;
-		>view{
-			flex: 1;
-		}
 		.paper-list-l{
 			width: 100upx;
 			height: 100upx;
@@ -54,6 +51,7 @@
 			}
 		}
 		.paper-list-r{
+			flex: 1;
 			>view:nth-child(1){
 				font-size: 35upx;
 			}

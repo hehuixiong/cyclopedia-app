@@ -1,1 +1,1 @@
-<view>聊天</view>
+<view class="data-v-693795ba"><user-chat-bottom bind:submit="__e" vue-id="1" data-event-opts="{{[['^submit',[['submit']]]]}}" class="data-v-693795ba" bind:__l="__l"></user-chat-bottom></view>
